@@ -39,4 +39,4 @@
 
 Below is a UML diagram showing the class inheritance:
 
-![abstract vehicle](https://github.com/S33V/IC27_AbstractVehicleInheritance/tree/master/images/AbstractVehicleInheritance.png "AbstractVehicleInheritance")
+![abstract vehicle](https://github.com/S33V/IC27_AbstractVehicleInheritance/blob/master/images/AbstractVehicleInheritance.png "AbstractVehicleInheritance")
